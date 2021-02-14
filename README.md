@@ -1,2 +1,2 @@
 # dev-theme-for-chrome
-A Chrome Extension to compliment Kdr3w's "Dev" Windows Theme
+A Chrome Extension to compliment KDr3w's "Dev" Windows Theme
