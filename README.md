@@ -8,4 +8,6 @@ A Chrome Extension to compliment KDr3w's "[Dev](https://www.deviantart.com/kdr3w
 
 3.) Enable developer options and click on "load unpacked"
 
-4.) Now just select the folder you extraced your files to and load the extension
+4.) Now just select the folder you extracted your files to and load the extension
+
+*Keep in mind that chrome automatically loads the extension from wherever you initially loaded it from, which means that you can't delete the folder from where you extracted it to*
