@@ -1,6 +1,8 @@
 # dev-theme-for-chrome
 A Chrome Extension to compliment KDr3w's "[Dev](https://www.deviantart.com/kdr3w/art/Dev-825722799)" Windows Theme
 
+[Firefox Version](https://github.com/Optinux/dev-theme-for-firefox)
+
 # Installation
 1.) Download the files, extract them and then head over to your chromium based browser
 
