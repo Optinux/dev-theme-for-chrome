@@ -13,3 +13,8 @@ A Chrome Extension to compliment KDr3w's "[Dev](https://www.deviantart.com/kdr3w
 4.) Now just select the folder you extracted your files to and load the extension
 
 *Keep in mind that chrome automatically loads the extension from wherever you initially loaded it from, which means that you can't delete the folder you extracted it to*
+
+# Optional
+Ive created a custom DuckDuckGo-Theme to go with this extension!
+
+Just load the following passphrase in the settings: `DEV-THEME-FOR-CHROME`
